@@ -1,6 +1,6 @@
 # Geek ESP8266
-
-> GEEKROS Team (https://www.geekros.com)
+项目是基于gitee上 geek-esp8266 基础上进行了整理和新增，感谢大佬的灵感和框架
+新增了链接MQTT的代码和配置页面
 
 #### 项目说明
 
